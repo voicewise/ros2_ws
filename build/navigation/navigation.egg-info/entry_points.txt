@@ -1,0 +1,3 @@
+[console_scripts]
+publish_point = navigation.publish_point:main
+

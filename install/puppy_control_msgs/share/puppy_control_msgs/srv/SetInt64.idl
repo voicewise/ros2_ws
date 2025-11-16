@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from puppy_control_msgs/srv/SetInt64.srv
+// generated code does not contain a copyright notice
+
+
+module puppy_control_msgs {
+  module srv {
+    struct SetInt64_Request {
+      int64 data;
+    };
+    struct SetInt64_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

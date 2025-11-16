@@ -1,0 +1,17 @@
+from interfaces.srv._change_range import ChangeRange  # noqa: F401
+from interfaces.srv._get_all_color_name import GetAllColorName  # noqa: F401
+from interfaces.srv._get_pose import GetPose  # noqa: F401
+from interfaces.srv._get_range import GetRange  # noqa: F401
+from interfaces.srv._set_circle_roi import SetCircleROI  # noqa: F401
+from interfaces.srv._set_color_detect_param import SetColorDetectParam  # noqa: F401
+from interfaces.srv._set_color_rgba import SetColorRGBA  # noqa: F401
+from interfaces.srv._set_float64 import SetFloat64  # noqa: F401
+from interfaces.srv._set_float64_list import SetFloat64List  # noqa: F401
+from interfaces.srv._set_int64 import SetInt64  # noqa: F401
+from interfaces.srv._set_line_roi import SetLineROI  # noqa: F401
+from interfaces.srv._set_point import SetPoint  # noqa: F401
+from interfaces.srv._set_pose import SetPose  # noqa: F401
+from interfaces.srv._set_pose2_d import SetPose2D  # noqa: F401
+from interfaces.srv._set_string import SetString  # noqa: F401
+from interfaces.srv._set_string_list import SetStringList  # noqa: F401
+from interfaces.srv._stash_range import StashRange  # noqa: F401

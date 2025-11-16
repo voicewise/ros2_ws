@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from puppy_control_msgs/msg/Pose.msg
+// generated code does not contain a copyright notice
+
+
+module puppy_control_msgs {
+  module msg {
+    struct Pose {
+      float roll;
+
+      float pitch;
+
+      float yaw;
+
+      float height;
+
+      float x_shift;
+
+      float stance_x;
+
+      float stance_y;
+
+      int32 run_time;
+    };
+  };
+};

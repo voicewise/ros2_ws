@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/gait__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/gait__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/pose__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/pose__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/set_servo__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/set_servo__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/velocity__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/velocity__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64_list__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64_list__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_int64__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_int64__type_support.c.o.d"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_run_action_name__type_support.c.o"
+  "CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_run_action_name__type_support.c.o.d"
+  "libpuppy_control_msgs__rosidl_typesupport_introspection_c.pdb"
+  "libpuppy_control_msgs__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/gait__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/gait__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/pose__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/pose__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/set_servo__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/set_servo__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/velocity__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/msg/detail/velocity__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64_list__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_float64_list__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_int64__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_int64__type_support.c"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_run_action_name__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/puppy_control_msgs/srv/detail/set_run_action_name__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/puppy_control_msgs__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

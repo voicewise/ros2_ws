@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/ChangeRange.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct ChangeRange_Request {
+      sequence<int16> min;
+
+      sequence<int16> max;
+    };
+    struct ChangeRange_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

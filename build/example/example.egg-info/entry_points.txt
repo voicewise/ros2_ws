@@ -1,0 +1,13 @@
+[console_scripts]
+color_detect_with_arm = example.puppy_with_arm.include.color_detect_with_arm:main
+color_grab = example.puppy_with_arm.include.color_grab:main
+hand_control = example.hand_control_pkg.hand_control_with_arm:main
+hand_control_with_arm = example.puppy_with_arm.include.hand_control_with_arm:main
+hand_gesture_control = example.hand_gesture_control.hand_gesture_control_node:main
+hand_trajectory = example.hand_trajectory.hand_trajectory_node:main
+kick_ball_demo = example.advanced_functions.include.kick_ball_demo:main
+lab_config = example.lab_config.lab_config_manager:main
+negotiate_stairs_demo = example.advanced_functions.include.negotiate_stairs_demo:main
+visual_patrol_demo = example.advanced_functions.include.visual_patrol_demo:main
+visual_patrol_with_arm = example.puppy_with_arm.visual_patrol_with_arm:main
+

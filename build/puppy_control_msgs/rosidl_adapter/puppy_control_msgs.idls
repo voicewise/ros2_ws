@@ -1,0 +1,8 @@
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:msg/Gait.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:msg/Pose.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:msg/SetServo.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:msg/Velocity.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:srv/SetFloat64.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:srv/SetFloat64List.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:srv/SetInt64.idl
+/home/ubuntu/ros2_ws/build/puppy_control_msgs/rosidl_adapter/puppy_control_msgs:srv/SetRunActionName.idl

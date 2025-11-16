@@ -1,0 +1,3 @@
+[console_scripts]
+puppy_control = puppy_control.puppy:main
+

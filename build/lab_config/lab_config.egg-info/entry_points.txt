@@ -1,0 +1,3 @@
+[console_scripts]
+lab_config = lab_config.lab_config_manager_node:main
+

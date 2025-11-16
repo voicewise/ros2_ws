@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/puppy_control_msgs__cpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/gait__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/gait__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/gait__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/pose__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/pose__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/pose__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/set_servo__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/set_servo__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/set_servo__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/velocity__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/velocity__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/detail/velocity__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/gait.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/pose.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/set_servo.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/msg/velocity.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_float64__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_float64__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_float64__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_float64_list__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_float64_list__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_float64_list__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_int64__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_int64__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_int64__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_run_action_name__builder.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_run_action_name__struct.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/detail/set_run_action_name__traits.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/set_float64.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/set_float64_list.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/set_int64.hpp"
+  "rosidl_generator_cpp/puppy_control_msgs/srv/set_run_action_name.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/puppy_control_msgs__cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,13 @@
+{
+  "package_name": "puppy_control_msgs",
+  "non_idl_tuples": [
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:msg/Gait.msg",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:msg/Pose.msg",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:msg/SetServo.msg",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:msg/Velocity.msg",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:srv/SetFloat64.srv",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:srv/SetFloat64List.srv",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:srv/SetInt64.srv",
+    "/home/ubuntu/ros2_ws/src/driver/puppy_control_msgs:srv/SetRunActionName.srv"
+  ]
+}

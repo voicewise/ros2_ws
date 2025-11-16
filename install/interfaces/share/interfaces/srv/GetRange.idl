@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/GetRange.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct GetRange_Request {
+      string color_name;
+    };
+    struct GetRange_Response {
+      boolean success;
+
+      sequence<int16> min;
+
+      sequence<int16> max;
+    };
+  };
+};

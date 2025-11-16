@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/GetAllColorName.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct GetAllColorName_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct GetAllColorName_Response {
+      sequence<string> color_names;
+    };
+  };
+};

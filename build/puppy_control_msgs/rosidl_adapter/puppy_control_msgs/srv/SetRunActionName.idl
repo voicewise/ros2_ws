@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from puppy_control_msgs/srv/SetRunActionName.srv
+// generated code does not contain a copyright notice
+
+
+module puppy_control_msgs {
+  module srv {
+    struct SetRunActionName_Request {
+      string name;
+
+      boolean wait;
+    };
+    struct SetRunActionName_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};
