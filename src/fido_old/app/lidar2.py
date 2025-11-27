@@ -19,7 +19,7 @@ MAX_SCAN_ANGLE = 360  # 激光的扫描角度 (the scanning angle of the laser)
 
 class LidarController(Node):
     def __init__(self):
-        super().__init__('lidar_app')
+        super().__init__('lidar2_app')
         
         # 初始化参数
         self.running_mode = 0  # 1: 雷达避障模式 2: 雷达警卫模式 3: 警卫看守模式

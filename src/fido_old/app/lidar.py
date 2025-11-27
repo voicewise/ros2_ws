@@ -236,8 +236,8 @@ class LidarController(Node):
 
 # sets up and runs a ROS2 node, handling cleanup when the node is stopped.
 def main(args=None):
-    rclpy.init(args=args)               # Initialize the ROS 2 environment
-    node = LidarController('lidar_app') # create an instance of the LidarController node
+    rclpy.init(args=args)                       # Initialize the ROS 2 environment
+    node = LidarController('lidar_fido_app')    # create an instance of the LidarController node
     try:
         rclpy.spin(node)                # Keep the node running until it is shut down
     except KeyboardInterrupt:           # Handle keyboard interrupt gracefully
